@@ -1,4 +1,0 @@
-bookdown::gitbook:
-  css: style.css
-  config:
-    sharing: false
