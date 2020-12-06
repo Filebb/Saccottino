@@ -2,6 +2,3 @@ bookdown::gitbook:
   css: style.css
   config:
     sharing: false
-    toc:
-      before: |
-        <li><a href="./">Saccottino</a></li>
