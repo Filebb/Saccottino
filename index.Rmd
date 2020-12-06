@@ -9,10 +9,10 @@ link-citations: yes
 
 # Aperture {-}
 
-\newcommand{\C}{\color{green}\clubsuit}
-\newcommand{\D}{\color{orange}\diamondsuit}
-\newcommand{\H}{\color{red}\heartsuit}
-\newcommand{\S}{\color{blue}\spadesuit}
+\newcommand{\C}{\color{green}♣}
+\newcommand{\D}{\color{orange}♦}
+\newcommand{\H}{\color{red}♥}
+\newcommand{\S}{\color{blue}♠}
 \newcommand{\N}{NT}
 
 \newcommand{\c}{\clubsuit}
