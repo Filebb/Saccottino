@@ -3,13 +3,16 @@
     "path": "C:/Users/Filippo5378/OneDrive - University of South Wales/Bridge/Saccottino/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1117474669",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1607289224580.0,
     "source_on_save": false,
     "relative_order": 1,
-    "properties": {},
+    "properties": {
+        "cursorPosition": "22,0",
+        "scrollLine": "21"
+    },
     "folds": "",
     "lastKnownWriteTime": 1607262085,
     "encoding": "UTF-8",
