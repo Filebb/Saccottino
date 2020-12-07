@@ -14,7 +14,7 @@
 | 3$\H$ | $5m4m3\s1\h$, senza visuale di slam|
 | 3$\S$ | $5m4m3\h1\s$, senza visuale di slam|
 | 3$\N$ | 10-14 pti, a giocare|
-| 4$\C$ | Bicolore minore 5+$\h$/5+$\s$, senza visuale slam|
+| 4$\C$ | Bicolore maggiore 5+$\h$/5+$\s$, senza visuale slam|
 | 4$\D$ | Texas transfer, 6+$\h$|
 | 4$\H$ | Texas transfer, 6+$\s$|
 | 4$\S$ | Bicolore minore 5+$\c$/5+$\d$, senza visuale slam|
