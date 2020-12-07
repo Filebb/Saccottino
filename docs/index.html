@@ -23,7 +23,7 @@
 
 
 
-<meta name="date" content="2020-12-06" />
+<meta name="date" content="2020-12-07" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -74,7 +74,11 @@
 <li class="chapter" data-level="" data-path="cuori.html"><a href="cuori.html"><i class="fa fa-check"></i>1 Cuori</a></li>
 <li class="chapter" data-level="" data-path="picche.html"><a href="picche.html"><i class="fa fa-check"></i>1 Picche</a></li>
 <li class="chapter" data-level="" data-path="nt.html"><a href="nt.html"><i class="fa fa-check"></i>1NT</a><ul>
-<li class="chapter" data-level="" data-path="nt.html"><a href="nt.html#risposte"><i class="fa fa-check"></i>Risposte</a></li>
+<li class="chapter" data-level="" data-path="risposte.html"><a href="risposte.html"><i class="fa fa-check"></i>Risposte</a></li>
+<li class="chapter" data-level="" data-path="puppet-stayman.html"><a href="puppet-stayman.html"><i class="fa fa-check"></i>Puppet Stayman</a><ul>
+<li class="chapter" data-level="" data-path="puppet-stayman.html"><a href="puppet-stayman.html#risposte-1"><i class="fa fa-check"></i>Risposte</a></li>
+<li class="chapter" data-level="" data-path="puppet-stayman.html"><a href="puppet-stayman.html#sviluppi-sulla-risposta-2"><i class="fa fa-check"></i>Sviluppi sulla risposta 2♦</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="fiori-1.html"><a href="fiori-1.html"><i class="fa fa-check"></i>2 Fiori</a></li>
 <li class="chapter" data-level="" data-path="quadri-1.html"><a href="quadri-1.html"><i class="fa fa-check"></i>2 Quadri</a></li>
@@ -97,7 +101,7 @@
             <section class="normal" id="section-">
 <div id="header">
 <h1 class="title">Saccottino</h1>
-<p class="date"><em>2020-12-06</em></p>
+<p class="date"><em>2020-12-07</em></p>
 </div>
 <div id="aperture" class="section level1 unnumbered">
 <h1>Aperture</h1>
@@ -105,8 +109,8 @@
 
 <table>
 <colgroup>
-<col width="45%" />
-<col width="54%" />
+<col width="13%" />
+<col width="86%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -169,7 +173,7 @@
 </tr>
 <tr class="even">
 <td align="right">3<span class="math inline">\(\color{blue}♠\)</span></td>
-<td align="left">Gambling (minore settimo chiuso, al più una Q a lato)</td>
+<td align="left">Gambling</td>
 </tr>
 <tr class="odd">
 <td align="right">3<span class="math inline">\(NT\)</span></td>
@@ -209,9 +213,8 @@
 <div class="rmdnote">
 <ul>
 <li><p>Sono considerate bilanciate tutte le mani aventi distribuzione 4333, 4432, 5332 (anche con quinta nobile)</p></li>
-<li><p>Con <span class="math inline">\(4\clubsuit\)</span> e <span class="math inline">\(4\diamondsuit\)</span> si apre 1<span class="math inline">\(\color{green}♣\)</span> fatta eccezione per le mani <span class="math inline">\(4441\spadesuit\)</span> di 12-17 pti</p></li>
-<li><p>Le mani <span class="math inline">\(4\diamondsuit 333\)</span> e <span class="math inline">\(4\diamondsuit 432\)</span> di 18-19 pti si aprono 1<span class="math inline">\(\color{green}♣\)</span></p></li>
-<li><p>Le aperture Namyats mostrano un colore nobile ottavo chiuso (AKJ10xxxx o AKQxxxxx) con a più una Q a lato, o il nobile settimo chiuso (AKQxxxx) con un A a lato</p>
+<li><p>Con <span class="math inline">\(4\clubsuit\)</span> e <span class="math inline">\(4\diamondsuit\)</span> si apre 1<span class="math inline">\(\color{green}♣\)</span> fatta eccezione per la <span class="math inline">\(4441\spadesuit\)</span> di 12-17 pti che si apre 1<span class="math inline">\(\color{orange}♦\)</span></p></li>
+<li><p>Le mani <span class="math inline">\(4\diamondsuit 333\)</span> e <span class="math inline">\(4\diamondsuit 432\)</span> di 18-19 pti si aprono 1<span class="math inline">\(\color{green}♣\)</span></p>
 </div></li>
 </ul>
 
@@ -239,7 +242,7 @@ gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
 "sharing": false,
 "fontsettings": {
-"theme": "white",
+"theme": "sepia",
 "family": "sans",
 "size": 2
 },
@@ -257,7 +260,7 @@ gitbook.start({
 },
 "download": null,
 "toc": {
-"collapse": "subsection"
+"collapse": "section"
 }
 });
 });

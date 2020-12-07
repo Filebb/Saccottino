@@ -3,21 +3,39 @@
 ## Risposte {-}
 
 | Risposta | Descrizione|
-|---------:|:-----------|
-| 2$\C$    |  Puppet Stayman, 8+ pti|
-| 2$\D$    |  Jacoby transfer, 5+$\h$|
-| 2$\H$    |  Jacoby transfer, 5+$\s$|
-| 2$\S$    |  Minor transfer, 5/6+$\c$|
-| 2$\N$    |  Minor transfer, 5/6+$\d$|
-| 3$\C$    |  Bicolore minore 5+$\c$/5+$\d$, debole|
-| 3$\D$    |  Bicolore minore 5+$\c$/5+$\d$, visuale slam|
-| 3$\H$    |  $5m4m3\s1\h$, senza visuale di slam|
-| 3$\S$    |  $5m4m3\h1\s$, senza visuale di slam|
-| 3$\N$    |  10-14 pti, a giocare|
-| 4$\C$    |  Bicolore minore 5+$\h$/5+$\s$, senza visuale slam|
-| 4$\D$    |  Texas transfer, 6+$\h$|
-| 4$\H$    |  Texas transfer, 6+$\s$|
-| 4$\S$    |  Bicolore minore 5+$\c$/5+$\d$, senza visuale slam|
-| 4$\N$    |  15-16 pti, quantitativo|
-| 5$\C$    |  Barrage a $\c$|
-| 5$\D$    |  Barrage a $\d$|
+|-:|:------------|
+| 2$\C$ | Puppet Stayman, 8+ pti|
+| 2$\D$ | Jacoby transfer, 5+$\h$|
+| 2$\H$ | Jacoby transfer, 5+$\s$|
+| 2$\S$ | Minor transfer, 5/6+$\c$|
+| 2$\N$ | Minor transfer, 5/6+$\d$|
+| 3$\C$ | Bicolore minore 5+$\c$/5+$\d$, debole|
+| 3$\D$ | Bicolore minore 5+$\c$/5+$\d$, visuale slam|
+| 3$\H$ | $5m4m3\s1\h$, senza visuale di slam|
+| 3$\S$ | $5m4m3\h1\s$, senza visuale di slam|
+| 3$\N$ | 10-14 pti, a giocare|
+| 4$\C$ | Bicolore minore 5+$\h$/5+$\s$, senza visuale slam|
+| 4$\D$ | Texas transfer, 6+$\h$|
+| 4$\H$ | Texas transfer, 6+$\s$|
+| 4$\S$ | Bicolore minore 5+$\c$/5+$\d$, senza visuale slam|
+| 4$\N$ | 15-16 pti, quantitativo|
+| 5$\C$ | Barrage a $\c$|
+| 5$\D$ | Barrage a $\d$|
+
+## Puppet Stayman {-}
+
+### Risposte {-}
+
+| 1$\N$ | 2$\C$|
+|-:|:------------|
+| 2$\D$ |  una o entrambe le quarte nobili|
+| 2$\H$ |  $5\h332$|
+| 2$\S$ |  $5\s332$|
+| 2$\N$ |  Min, né quarte né quinte nobili|
+| 3$\C$ |  Max, $5m332$|
+| 3$\D$ |  Max, $5m4m22$|
+| 3$\H$ |  Max, $4\c4\d3\h2\s$|
+| 3$\S$ |  Max, $4\c4\d3\s2\h$|
+| 3$\N$ |  Max, $4m333$|
+
+### Sviluppi sulla risposta 2♦ {-}
